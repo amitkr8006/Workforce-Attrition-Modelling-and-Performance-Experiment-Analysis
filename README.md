@@ -1,0 +1,2 @@
+# Workforce-Attrition-Modelling-and-Performance-Experiment-Analysis
+analysis applying logistic regression, Kruskal–Wallis, mixed-model ANOVA and ANCOVA across two datasets: IBM HR attrition  and a trained vs untrained performance experiment (4 stretch/warm-up conditions). Key insights: job satisfaction reduces attrition risk, tenure relates to promotions, and stretching+warm-up significantly boosts performance.
